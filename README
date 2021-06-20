@@ -6,6 +6,9 @@ The only new file is "CairoQuartz.h", which is the recommended header for inclus
 in Mac OS X projects, as it includes cairo.h and the Quartz-specific functions.
 
 
-Created by Pauli Ojala / Lacquer oy/ltd (pauli@lacquer.fi).
+Created by Pauli Ojala / Lacquer oy/ltd.
 2008.08.19
 
+
+NOTE -- this version of Cairo is quite old.
+It does build for all macOS architectures up to Big Sur and ARM64.
