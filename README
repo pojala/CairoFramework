@@ -1,0 +1,11 @@
+
+This is a Mac OS X framework Xcode project that contains Cairo + its dependencies.
+
+
+The only new file is "CairoQuartz.h", which is the recommended header for inclusion
+in Mac OS X projects, as it includes cairo.h and the Quartz-specific functions.
+
+
+Created by Pauli Ojala / Lacquer oy/ltd (pauli@lacquer.fi).
+2008.08.19
+

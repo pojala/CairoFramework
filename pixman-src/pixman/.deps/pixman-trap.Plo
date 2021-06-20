@@ -1,0 +1,57 @@
+pixman-trap.lo pixman-trap.o: pixman-trap.c ../config.h \
+  /usr/include/stdio.h /usr/include/_types.h /usr/include/sys/_types.h \
+  /usr/include/sys/cdefs.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/secure/_stdio.h \
+  /usr/include/secure/_common.h pixman-private.h pixman.h \
+  pixman-version.h \
+  /usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h \
+  /usr/include/time.h /usr/include/_structs.h /usr/include/sys/_structs.h \
+  /usr/include/assert.h /usr/include/string.h \
+  /usr/include/secure/_string.h pixman-compiler.h /usr/include/pthread.h \
+  /usr/include/pthread_impl.h /usr/include/sched.h
+
+../config.h:
+
+/usr/include/stdio.h:
+
+/usr/include/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/secure/_stdio.h:
+
+/usr/include/secure/_common.h:
+
+pixman-private.h:
+
+pixman.h:
+
+pixman-version.h:
+
+/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h:
+
+/usr/include/time.h:
+
+/usr/include/_structs.h:
+
+/usr/include/sys/_structs.h:
+
+/usr/include/assert.h:
+
+/usr/include/string.h:
+
+/usr/include/secure/_string.h:
+
+pixman-compiler.h:
+
+/usr/include/pthread.h:
+
+/usr/include/pthread_impl.h:
+
+/usr/include/sched.h:
